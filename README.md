@@ -1,7 +1,10 @@
 <h1 align="center">
   Hi ich bin Max <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
-**Have worked in:**
+
+🔭 Aktuelle IT Interessen  - Angular, c#, Hardware
+
+:computer:
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
